@@ -1,0 +1,20 @@
+
+.cke_panel_list {
+    background-color: #161f2d;
+  }
+  .cke_panel_grouptitle {
+    display: none;
+  }
+  .cke_panel_listItem {
+    color: #ffff;
+  }
+  .cke_panel_listItem:hover {
+    color: #0000 !important;
+  }
+  .cke_selected {
+    color: #ffff;
+  }
+  .cke_selected a{
+    background-color: #161f2d;
+  }
+  
